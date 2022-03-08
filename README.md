@@ -5,8 +5,7 @@
 - 💬 Ask me about C, C++, JAVA, Android.
 - 📫 How to reach me: carlosgabrielncs@gmail.com / all social media.
 - 😄 Pronouns: ele / dele.
-- ⚡ Fun fact: I have a youtube channel about games, and a twitch channel with studying stream ate week!
--->
+- ⚡ Fun fact: I have a youtube channel about games, and a twitch channel studying stream at week days!
 
 <div align="center">
   <a href="https://github.com/NBrcS">
