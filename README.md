@@ -1,11 +1,11 @@
-### Hi there 👋, i'm Gabriel Nobrega, a new software developer passionate about tecnoglogy and always learning about this incredible word 😆!
+### Hi there 👋, i'm Gabriel Nobrega, a new software developer passionate about tecnoglogy and always learning about this incredible world 😆!
 
 - 🔭 I’m currently working on a personal project, a app for android than will be my portfolio.
-- 🌱 I’m currently learning to develop on androd Studio, making 18 apps on Udemy Academy. 
+- 🌱 I’m currently learning to develop on android Studio, making 18 apps on Udemy Academy. 
 - 💬 Ask me about C, C++, JAVA, Android.
 - 📫 How to reach me: carlosgabrielncs@gmail.com / all social media.
 - 😄 Pronouns: ele / dele.
-- ⚡ Fun fact: I have a youtube channel about games, and a twitch channel studying stream at week days!
+- ⚡ Fun fact: I have a youtube channel about games, and a twitch channel studying/programming in live at week days!
 
 <div align="center">
   <a href="https://github.com/NBrcS">
