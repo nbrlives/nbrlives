@@ -31,8 +31,5 @@
   <a href="https://www.facebook.com/gabriel.nobrega.0210" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/NBR_cs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlosgabrielncs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-    <p align="center"><br> 
-    Come back later :wink:<br>
-    <img src="https://profile-counter.glitch.me/NBrcS/count.svg" />
-  </p>
