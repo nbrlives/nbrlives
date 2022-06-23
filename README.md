@@ -1,8 +1,8 @@
-### Hi there 👋, i'm Gabriel Nobrega, a new software developer passionate about tecnoglogy and always learning about this incredible world 😆!
+### Hi there 👋, i'm Gabriel Nobrega, a new software developer passionate about tecnology and always learning about this incredible world 😆!
 
 - 🔭 I’m currently working on a personal project, a app for android than will be my portfolio.
 - 🌱 I’m currently learning to develop on android Studio, making 18 apps on Udemy Academy. 
-- 💬 Ask me about C, C++, JAVA, Android.
+- 💬 Ask me about C, C++, JAVA, Android, html/css, QMake.
 - 📫 How to reach me: carlosgabrielncs@gmail.com / all social media.
 - 😄 Pronouns: ele / dele.
 - ⚡ Fun fact: I have a youtube channel about games, and a twitch channel studying/programming in live at week days!
@@ -34,7 +34,7 @@
 </div>
   
   <p align="center"><br> 
-    Take a look more times, i like you visits!! :wink:<br>
+    Take a look more times, i like your visits!! :wink:<br>
     <img src="https://profile-counter.glitch.me/NBrcS/count.svg" />
   </p>
 
