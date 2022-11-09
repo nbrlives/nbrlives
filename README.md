@@ -7,10 +7,11 @@
 - 😄 Pronouns: ele / dele.
 - ⚡ Fun fact: I have a youtube channel about games, and a twitch channel studying/programming in live at week days!
 
+
 <div align="center">
   <a href="https://github.com/NBrcS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NBrcS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBrcS&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NBrcS&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBrcS&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
   ##
