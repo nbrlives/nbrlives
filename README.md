@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a personal project, an website than will be my portfolio.
 - 🌱 I’m currently learning to develop on API using Spring Boot. 
-- 💬 Ask me about C, C++, JAVA, Android, html/css, Spring, Angular, Typescript.
+- 💬 Ask me about JAVA, Spring, Android, html/css,, Angular, C, C++, Typescript.
 - 📫 How to reach me: gabriel.nobrega.professional@gmail.com / all social media.
 - 😄 Pronouns: he / him.
 - ⚡ Fun fact: I have a youtube channel about games, and a twitch channel studying/programming in live at week days!
