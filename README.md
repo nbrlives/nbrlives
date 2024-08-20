@@ -1,8 +1,8 @@
-### Hi there 👋, i'm Gabriel Nobrega, a new full-stack developer focused in java stack with Spring, Angular, PostgreSql and Android, passionate about tecnology and always learning about this incredible world 😆!
+### Hi there 👋, i'm Gabriel Nobrega, a new full-stack developer focused in mobile stack with Kotlin and swift, passionate about tecnology and always learning about this incredible world 😆!
 
 - 🔭 I’m currently working on a personal project, an website than will be my portfolio.
 - 🌱 I’m currently learning to develop on API using Spring Boot. 
-- 💬 Ask me about JAVA, Spring, Android, html/css,, Angular, C, C++, Typescript.
+- 💬 Ask me about Kotlin and swit!
 - 📫 How to reach me: gabriel.nobrega.professional@gmail.com / all social media.
 - 😄 Pronouns: he / him.
 - ⚡ Fun fact: I have a youtube channel about games, and a twitch channel studying/programming in live at week days!
