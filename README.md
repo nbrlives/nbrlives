@@ -1,6 +1,5 @@
 ### Hi there 👋, i'm Gabriel Nobrega, a new full-stack developer focused in mobile stack with Kotlin and swift, passionate about tecnology and always learning about this incredible world 😆!
 
-- 💬 Ask me about Kotlin and swit!
 - 📫 How to reach me: gabriel.nobrega.professional@gmail.com / all social media.
 - 😄 Pronouns: he / him.
 - ⚡ Fun fact: I have a youtube channel about games, and a twitch channel studying/programming in live at week days!
@@ -14,20 +13,13 @@
   
   ##
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Gabriel-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-</div>
-  
   ##
   
   <div> 
-    <a href="https://www.linkedin.com/in/gabriel-nóbrega/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCdAaaW1Bj-p7PbjZx5qCTfw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/nbr_cs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/nbr_cs02" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/carlos-gabriel-nobrega/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/@nbrlives target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/nbrlives/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/nbrliws" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/gabriel.nobrega.0210" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/NBR_cs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel.nobrega.professional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
