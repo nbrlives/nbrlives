@@ -6,9 +6,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/NBrcS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NBrcS&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBrcS&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <a href="https://github.com/nbrlives">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nbrlives&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbrlives&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
   ##
@@ -27,6 +27,6 @@
   
   <p align="center"><br> 
     Take a look more times, i like your visits!! :wink:<br>
-    <img src="https://profile-counter.glitch.me/NBrcS/count.svg" />
+    <img src="https://profile-counter.glitch.me/nbrlives/count.svg" />
   </p>
 
